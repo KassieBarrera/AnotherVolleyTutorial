@@ -18,13 +18,17 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
+
+        /*https://www.youtube.com/watch?v=EHpHRlJg1fk   --ForResult*/
+
         //stringRequest()
 
         //ObjectRequest()
 
         //jsonObjectRequestPost()
        // jsonArrayRequest()
-        jsonArrayRequestPost()
+        //jsonArrayRequestPost()
 
     }
         fun stringRequest() {
